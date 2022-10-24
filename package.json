@@ -1,0 +1,15 @@
+{
+  "name": "monad",
+  "version": "0.0.0",
+  "description": "JS/TS기반 함수형 프로그래밍 라이브러리",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/industriously/monad.git"
+  },
+  "author": "industriously",
+  "license": "ISC"
+}
