@@ -1,5 +1,5 @@
 {
-  "name": "fxts",
+  "name": "function-ts",
   "version": "0.0.0",
   "description": "JS/TS기반 함수형 프로그래밍 라이브러리",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/industriously/fxts.git"
+    "url": "https://github.com/industriously/function-ts.git"
   },
   "author": "industriously",
   "license": "ISC"
